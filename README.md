@@ -20,7 +20,7 @@ Acredito na educação e na tecnologia como instrumentos de transformação soci
 
 ---
 
-### 🛠️ Principais Tecnologias
+### 🛠️ Tecnologias
 
 <br>
 
