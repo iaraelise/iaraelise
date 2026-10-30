@@ -22,25 +22,22 @@ Acredito na educação e na tecnologia como instrumentos de transformação soci
 
 ### 🛠️ Principais Tecnologias
 
-<div align="center">
+<br>
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-</div>
-
+---
 
 ### 📊 Estatísticas do GitHub
-
-<div align="center"> <img src="https://streak-stats.demolab.com?user=iaraelise&locale=pt_BR&hide_border=true&background=FFF0F5&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493&sideLabels=DB7093&currStreakNum=6B4A5A&sideNums=6B4A5A&dates=6B4A5A" alt="Estatísticas do GitHub" /> </div>
+<br> <img src="https://streak-stats.demolab.com?user=iaraelise&locale=pt_BR&hide_border=true&background=FFF0F5&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493&sideLabels=DB7093&currStreakNum=6B4A5A&sideNums=6B4A5A&dates=6B4A5A" alt="Estatísticas do GitHub" />
 ---
 
 ## 📫 Vamos conversar?
 
 <div align="center">
 
-<!-- Troque pelos seus links! -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
 [![Email](https://img.shields.io/badge/Email-ff1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@exemplo.com)
 
