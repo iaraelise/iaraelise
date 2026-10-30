@@ -8,7 +8,7 @@
 
 <!-- 2. Frases animadas -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=700&lines=Futura+professora+e+pesquisadora+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%8F%AB;Respeitando+o+meu+ritmo+de+aprendizagem+%F0%9F%8C%B1;A+tecnologia+tamb%C3%A9m+%C3%A9+feminina+%F0%9F%8C%B8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=700&lines=Tenho+23+anos+e+sou+de+Natal%2FRN+%E2%98%80%EF%B8%8F;Futura+professora+e+pesquisadora+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%8F%AB;Buscando+aprender+e+evoluir+dentro+da+%C3%A1rea+%F0%9F%8C%B1;A+tecnologia+tamb%C3%A9m+%C3%A9+feminina+%F0%9F%8C%B8" alt="Typing SVG"/>
 
 </div>
 
