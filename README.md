@@ -48,7 +48,7 @@ Acredito na educação e na tecnologia como instrumentos de transformação soci
 
 ### 📊 Estatísticas do GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iaraelise&theme=dark&locale=pt_BR&hide_border=true&background=FFF0F5&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493&sideLabels=DB7093&currStreakNum=6B4A5A&sideNums=6B4A5A&dates=6B4A5A)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iaraelise&theme=dark&locale=pt_BR&timezone=America/Recife&hide_border=true&background=FFF0F5&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493&sideLabels=DB7093&currStreakNum=6B4A5A&sideNums=6B4A5A&dates=6B4A5A)](https://git.io/streak-stats)
 
 ---
 
